@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom'
 console.log('hello parcel')
 
 const Hello = props => (
-  <h1>hello</h1>
+  <h1>{props.msg}</h1>
 )
 
-ReactDOM.render(<Hello/>, document.getElementById('app'))
+ReactDOM.render(<Hello msg={Date.now()}/>, document.getElementById('app'))
