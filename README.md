@@ -5,7 +5,7 @@
   - already configured react development environment
 
 - ### install
-    `npm instalal`
+    `npm install`
 
 - ### run with built-in server:
     `npm start`
