@@ -3,6 +3,7 @@
 - ### introduction
   - parcel:  https://parceljs.org
   - already configured react development environment
+  - ant design lib invoked 
 
 - ### install
     `npm install`
