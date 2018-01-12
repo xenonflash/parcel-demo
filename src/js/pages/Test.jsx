@@ -1,8 +1,9 @@
 import React from 'react'
+import Sidebar from '../components/Sidebar.jsx'
 
 const Test = props => (
   <div>
-    <h1>TEST</h1>
+    <Sidebar/>
   </div>
 )
 
